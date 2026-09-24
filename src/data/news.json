@@ -3,13 +3,13 @@
     "year": "2026",
     "months": [
       {
-        "month": "February",
+        "month": "September",
         "items": [
           {
-            "title": "Publication of the article \"Optimizing renal mass histology prediction with artificial intelligence using handcrafted radiomics\"",
-            "slug": "2026-02-25-post-renal-mass-radiomics",
-            "contributors": ["Mahdi Loutfi", "Martin Vallières"],
-            "markdown": "community/news/2026-02-25-post-renal-mass-radiomics.md"
+            "title": "Bon voyage, Hakima!",
+            "slug": "2026-09-24-hakima-france-internship",
+            "contributors": ["Hakima Laribi"],
+            "markdown": "community/news/2026-09-24-hakima-france-internship.md"
           }
         ]
       },
@@ -21,6 +21,17 @@
             "slug": "2026-03-31-post-med3pa-article",
             "contributors": ["Olivier Lefebvre", "Martin Vallières"],
             "markdown": "community/news/2026-03-31-post-med3pa-article.md"
+          }
+        ]
+      },
+      {
+        "month": "February",
+        "items": [
+          {
+            "title": "Publication of the article \"Optimizing renal mass histology prediction with artificial intelligence using handcrafted radiomics\"",
+            "slug": "2026-02-25-post-renal-mass-radiomics",
+            "contributors": ["Mahdi Loutfi", "Martin Vallières"],
+            "markdown": "community/news/2026-02-25-post-renal-mass-radiomics.md"
           }
         ]
       }
